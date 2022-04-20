@@ -6,6 +6,7 @@ Application to identify facial similarity using an machine learning-enabled web 
 </br>
 </br>
  Click <a href="https://x.thunkable.com/copy/ece44a0c76c010f4e04319da49e87e43">HERE</a> to see the app and the code. Made and hosted in Tunkable.
+ </br></br>
 Goal:</br>
 ● Understand more about the POST methods in the web API.</br>
 ● Apply the learnings from computer vision and facial landmarks for face similarity.
